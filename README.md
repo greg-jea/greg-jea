@@ -1,4 +1,4 @@
-# Grégore
+# Grégoire
 
 ###
 
